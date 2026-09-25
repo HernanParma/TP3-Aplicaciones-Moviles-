@@ -26,4 +26,12 @@
         android:textSize="16sp"
         android:layout_marginTop="16dp" />
 
+    <!-- Botón agregado para gestionar favoritos desde el detalle -->
+    <Button
+        android:id="@+id/btnFavoritoDetalle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:text="★ Favorita" />
+
 </LinearLayout>
